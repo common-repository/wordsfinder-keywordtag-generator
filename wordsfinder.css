@@ -1,0 +1,8 @@
+#ajax-loader {
+	width: 16px;
+	height: 16px;
+	position: relative;
+	top: 0px;
+	left: -250px;
+	display: inline;
+}
